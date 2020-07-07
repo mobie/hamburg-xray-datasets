@@ -16,7 +16,7 @@
         <size>1507 1507 1558</size>
         <voxelSize>
           <unit>micrometer</unit>
-          <size>0.008 0.008 0.008</size>
+          <size>0.1625 0.1625 0.1625</size>
         </voxelSize>
         <attributes>
           <channel>0</channel>
