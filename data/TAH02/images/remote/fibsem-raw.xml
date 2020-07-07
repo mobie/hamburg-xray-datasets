@@ -13,7 +13,7 @@
         <size>1507 1507 1558</size>
         <voxelSize>
           <unit>micrometer</unit>
-          <size>0.008 0.008 0.008</size>
+          <size>0.1625 0.1625 0.1625</size>
         </voxelSize>
         <attributes>
           <channel>0</channel>
@@ -28,14 +28,14 @@
       <Key>TAH02/images/local/fibsem-raw.n5</Key>
       <SigningRegion>us-west-2</SigningRegion>
       <ServiceEndpoint>https://s3.embl.de</ServiceEndpoint>
-      <BucketName>covid-fib-sem</BucketName>
+      <BucketName>xray-tomo</BucketName>
       <Authentication>Protected</Authentication>
     </ImageLoader>
   </SequenceDescription>
   <ViewRegistrations>
     <ViewRegistration setup="0" timepoint="0">
       <ViewTransform type="affine">
-        <affine>0.008 0.0 0.0 0.0 0.0 0.008 0.0 0.0 0.0 0.0 0.008 0.0</affine>
+        <affine>0.1625 0.0 0.0 0.0 0.0 0.1625 0.0 0.0 0.0 0.0 0.1625 0.0</affine>
       </ViewTransform>
     </ViewRegistration>
   </ViewRegistrations>
