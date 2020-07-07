@@ -1,0 +1,5 @@
+*.n5
+software/
+__pycache__/
+tmp*/
+.DS_STORE
